@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\WURI\AndroidStudioProjects\Blogging\app\libs\json-20140107.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1ffca6e2482b002702c6a576166fd685e3370e3">
+        <dex dex="C:\Users\WURI\AndroidStudioProjects\Blogging\app\build\intermediates\pre-dexed\debug\json-20140107-476cda7477fe16dcbce2dddb1007baf2f41a4eed.jar" />
+    </item>
+    <item
+        jar="C:\Users\WURI\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\WURI\AndroidStudioProjects\Blogging\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-08ae9e4e611c3ef14d630a555f45b68182992c97.jar" />
+    </item>
+
+</items>
