@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_post_title"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:text="@string/str_post_title_add"
+        android:textColor="#FFFFFF" />
+
+    <EditText
+        android:id="@+id/txt_post_judul"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:layout_marginBottom="15dip"
+        android:inputType="text"
+        android:singleLine="true"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:text="@string/str_post_isi_add"
+        android:textColor="#FFFFFF" />
+
+    <EditText
+        android:id="@+id/txt_post_isi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:layout_marginBottom="15dip"
+        android:inputType="text"
+        android:singleLine="true"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn_save_post"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#00BFFF"
+        android:text="@string/str_btn_simpan_post"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout><!-- From: file:/C:/Users/WURI/AndroidStudioProjects/Blogging/app/src/main/res/layout/tambah_post_activity.xml -->
