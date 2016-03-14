@@ -1,0 +1,2 @@
+C:\Users\WURI\AndroidStudioProjects\Blogging\app\build\intermediates\classes\release
+C:\Users\WURI\AndroidStudioProjects\Blogging\app\build\intermediates\pre-dexed\release\support-v4-18.0.0-08ae9e4e611c3ef14d630a555f45b68182992c97.jar
