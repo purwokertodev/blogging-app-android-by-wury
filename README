@@ -1,4 +1,8 @@
 simple blog app using android and PHP,
-PHP api available in here https://github.com/wuriyanto48/SimpleBlogWithPHP  
+PHP api available here https://github.com/wuriyanto48/SimpleBlogWithPHP  
 
-- Open this project using Android Studio
+- Use Android Studio to open this project
+
+tech stack :
+- gradle
+- JSON
